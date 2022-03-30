@@ -1,2 +1,2 @@
 # git-rocks-2
-hello
+hello git
